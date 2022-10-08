@@ -8,7 +8,7 @@
 * I'm beginner software developer. 👨‍💻
 * Second year MTUCI student. 📚
 
-![Profile views](https://komarev.com/ghpvc/?username=semuloff) :(
+![Profile views](https://komarev.com/ghpvc/?username=semuloff) 😦
 ---
 
 ## 🛠 Languages and tools
