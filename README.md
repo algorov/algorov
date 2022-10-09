@@ -18,6 +18,7 @@
     </a>
 </div>
 
+
 <!-- Profile views and about me-->
 
 <div id="Profile_views" align=center>
@@ -25,12 +26,12 @@
     <h1>
         Aloha! - Hi, there! - Privet! 👋  
     </h1>
-</div>
 
     <
         * I'm beginner software developer. 👨‍💻
         * Second year MTUCI student. 📚         
     >
+</div>
 
 
 <!-- Languages and tools -->
@@ -44,12 +45,15 @@
     <img src="https://img.shields.io/badge/-PostgreSQL-/?style=for-the-badge&logo=PostgreSQL&color=090909" alt="PostgreSQL">
 </div>
 
----
 
-## 🚀 GitHub profile analitics
+<!-- GitHub profile analitics -->
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semuloff&theme=2077)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=semuloff&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semuloff&show_icons=true&theme=radical&layout=compact)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=semuloff&theme=nightowl)
-![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semuloff&theme=2077&utcOffset=8)
+<h2 align=center> 
+    🚀 GitHub profile analitics 
+</h2>
+<div id='profile-cards' align=center>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semuloff&theme=2077" alt="Profile Details"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=semuloff&show_icons=true&theme=radical" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semuloff&show_icons=true&theme=radical&layout=compact" alt="Top Langs"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=semuloff&theme=nightowl" alt="GitHub Streak"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semuloff&theme=2077&utcOffset=8" alt="Commit stats"/>
