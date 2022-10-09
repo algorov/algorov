@@ -34,8 +34,9 @@
 
 <!-- Languages and tools -->
 
-<h2 align=center> 🛠 Languages and tools </h2>
+
 <div id="langs_and_tools" align=center>
+    <h2> 🛠 Languages and tools </h2>
     <img src="https://img.shields.io/badge/-Python-/?style=for-the-badge&logo=Python&color=090909" alt="Python">
     <img src="https://img.shields.io/badge/-C++-/?style=for-the-badge&logo=C%2b%2b&color=090909" alt="C++">
     <img src="https://img.shields.io/badge/-Java-/?style=for-the-badge&logo=java&color=090909" alt="Java">
