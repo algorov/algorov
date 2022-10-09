@@ -1,6 +1,28 @@
-![Header](/img/header.jpeg)
+<!-- Header -->
 
-> **<p style="text-align: center;">Work smart, not hurd!</p>**
+<div id="header" align="center">
+    <img src="/img/header.jpeg" style=width:100%;height:500px;>
+    <h3 >Work smart, not hurd!</h3>
+    <img src="/img/binary-code.png" width="100" style=margin-top:30px>
+</div>
+
+
+<!-- Links -->
+
+<div id="badges" align=center>
+    <a href="https://vk.com/notmindset">
+        <img src="https://img.shields.io/badge/-VK-/?style=for-the-badge&logo=vk&color=090909">
+    </a>
+    <a href="https://t.me/extinctionflas">
+        <img src="https://img.shields.io/badge/-Telegram-/?style=for-the-badge&logo=telegram&color=090909">
+    </a>
+</div>
+
+<!-- Profile views -->
+
+<div id="Profile_views" align=center>
+    <img src="https://komarev.com/ghpvc/?username=semuloff">
+</div>
 
 ---
 
