@@ -52,8 +52,8 @@
     🚀 GitHub profile analitics 
 </h2>
 <div id='profile-cards' align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semuloff&theme=2077" alt="Profile Details"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=semuloff&show_icons=true&theme=radical" alt="GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semuloff&show_icons=true&theme=radical&layout=compact" alt="Top Langs"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=semuloff&theme=nightowl" alt="GitHub Streak"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semuloff&theme=2077&utcOffset=8" alt="Commit stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semuloff&theme=2077" alt="Profile Details" border=3/>
+    <img src="https://github-readme-stats.vercel.app/api?username=semuloff&show_icons=true&theme=radical" alt="GitHub stats" border=3/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semuloff&show_icons=true&theme=radical&layout=compact" alt="Top Langs" border=3/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=semuloff&theme=nightowl" alt="GitHub Streak" border=3/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semuloff&theme=2077&utcOffset=8" alt="Commit stats" border=3/>
