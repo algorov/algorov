@@ -1,9 +1,9 @@
 <!-- Header -->
 
 <div id="header" align="center">
-    <img src="/img/header.jpeg" style=width:100%;height:500px; alt="Header"/>
+    <img src="/img/header.jpeg" width=100% height=500px; alt="Header"/>
     <h3 >Work smart, not hurd!</h3>
-    <img src="/img/binary-code.png" width="100" style=margin-top:30px alt="Icon"/>
+    <img src="/img/binary-code.png" width="100" alt="Icon"/>
 </div>
 
 
@@ -18,22 +18,22 @@
     </a>
 </div>
 
-<!-- Profile views -->
+<!-- Profile views and about me-->
 
-<div id="Profile_views" align=center >
+<div id="Profile_views" align=center>
     <img src="https://komarev.com/ghpvc/?username=semuloff" alt="Profile_views"/>
+    <h1>
+        Aloha! - Hi, there! - Privet! 👋  
+    </h1>
 </div>
 
----
+    <
+        * I'm beginner software developer. 👨‍💻
+        * Second year MTUCI student. 📚         
+    >
 
-### Aloha - Privet! 👋  
-* I'm beginner software developer. 👨‍💻
-* Second year MTUCI student. 📚
-
----
 
 <!-- Languages and tools -->
-
 
 <div id="langs_and_tools" align=center>
     <h2> 🛠 Languages and tools </h2>
