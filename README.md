@@ -30,8 +30,8 @@
     <h2>
         Aloha! - Hi, there! - Privet! 👋  
     </h2>
-
-        * I'm beginner software developer. 👨‍💻
+    
+         * I'm beginner software developer. 👨‍💻
         * Second year MTUCI student. 📚         
 </div>
 
