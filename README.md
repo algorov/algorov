@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <div id="header" align="center">
-    <img src="/img/header.jpeg" width=100% height=500px; alt="Header"/>
+    <img src="/img/header.jpg" width=100% alt="Header"/>
     <h3 >"Work smart, not hurd!"</h3>
     <br></br>
     <img src="/img/binary-code.png" width="100" alt="Icon"/>
