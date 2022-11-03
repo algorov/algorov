@@ -4,7 +4,7 @@
     <img src="/img/header.jpg" width=100% alt="Header"/>
     <h3 >"Work smart, not hurd!"</h3>
     <br></br>
-    <img src="/img/binary-code.png" width="100" alt="Icon"/>
+    <img src="/img/icon.png" width="100" alt="Icon"/>
     <br></br>
 </div>
 
