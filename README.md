@@ -15,7 +15,7 @@
     <a href="https://vk.com/notmindset">
         <img src="https://img.shields.io/badge/-VK-/?style=for-the-badge&logo=vk&color=090909" alt="VK"/>
     </a>
-    <a href="https://t.me/extinctionflas">
+    <a href="https://t.me/tiedmind">
         <img src="https://img.shields.io/badge/-Telegram-/?style=for-the-badge&logo=telegram&color=090909" alt="Telegram"/>
     </a>
 </div>
@@ -28,12 +28,12 @@
     <br></br>
     <br></br>
     <h3>
-        aloha! ~ hi, there! ~ privet! 👋  
+        A few facts:  
     </h3>      
 </div>
 
 <div id="facts" align=center>
-    <code> ~ I'm beginner software developer. 👨‍💻 </code>
+    <code> ~ Beginner software developer. 👨‍💻 </code>
     <br></br>
     <code> ~ Second year MTUCI student. 📚 </code>
 </div>
@@ -43,7 +43,7 @@
 
 <div id="langs_and_tools" align=center>
     <br></br>
-    <h3> 🛠 Languages and tools: </h3>
+    <h3> Languages and tools: </h3>
     <img src="https://img.shields.io/badge/-Python-/?style=for-the-badge&logo=Python&color=090909" alt="Python">
     <img src="https://img.shields.io/badge/-C++-/?style=for-the-badge&logo=C%2b%2b&color=090909" alt="C++">
     <img src="https://img.shields.io/badge/-Java-/?style=for-the-badge&logo=java&color=090909" alt="Java">
@@ -55,12 +55,12 @@
 <!-- GitHub profile analitics -->
 
 <br></br>
-<h3 align=center> 🚀 GitHub profile analitics: </h3>
+<h3 align=center> GitHub profile analitics: </h3>
 <div id='profile-cards' align=center>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semuloff&theme=2077" alt="Profile Details" border=2/>
 </div>
 
- | | |
---- | --- |
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=semuloff&theme=nightowl) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semuloff&show_icons=true&theme=radical&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=semuloff&show_icons=true&theme=radical) | ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semuloff&theme=2077&utcOffset=8)
+|                                                                                                             |                                                                                                                                    |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=semuloff&theme=nightowl)              | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semuloff&show_icons=true&theme=radical&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=semuloff&show_icons=true&theme=radical) | ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semuloff&theme=2077&utcOffset=8) |
