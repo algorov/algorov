@@ -12,10 +12,10 @@
 <!-- Links -->
 
 <div id="badges" align=center>
-    <a href="https://vk.com/tiedmind">
+    <!-- <a href="https://vk.com/">
         <img src="https://img.shields.io/badge/-VK-/?style=for-the-badge&logo=vk&color=090909" alt="VK"/>
-    </a>
-    <a href="https://t.me/tiedmind">
+    </a> -->
+    <a href="https://t.me/quesoon">
         <img src="https://img.shields.io/badge/-Telegram-/?style=for-the-badge&logo=telegram&color=090909" alt="Telegram"/>
     </a>
 </div>
@@ -24,7 +24,7 @@
 <!-- Profile views and about -->
 
 <div id="Profile_views" align=center>
-    <img src="https://komarev.com/ghpvc/?username=semuloff&color=ff69b4&style=for-the-badge" alt="Profile_views"/>
+    <img src="https://komarev.com/ghpvc/?username=quesoon&color=ff69b4&style=for-the-badge" alt="Profile_views"/>
     <br></br>
     <br></br>
     <h3>
@@ -57,10 +57,10 @@
 <br></br>
 <h3 align=center>Profile statistics:</h3>
 <div id='profile-cards' align=center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semuloff&theme=radical" alt="Profile Details" border=2/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quesoon&theme=radical" alt="Profile Details" border=2/>
 </div>
 
 |                                                                                                              |                                                                                                                                       |
 |--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| ![Profile streak](http://github-readme-streak-stats.herokuapp.com?user=semuloff&theme=radical)               | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semuloff&show_icons=true&theme=radical&layout=compact)    |
-| ![Profile stats](https://github-readme-stats.vercel.app/api?username=semuloff&show_icons=true&theme=radical) | ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semuloff&theme=radical&utcOffset=8) |
+| ![Profile streak](http://github-readme-streak-stats.herokuapp.com?user=quesoonf&theme=radical)               | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quesoon&show_icons=true&theme=radical&layout=compact)    |
+| ![Profile stats](https://github-readme-stats.vercel.app/api?username=quesoon&show_icons=true&theme=radical) | ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quesoon&theme=radical&utcOffset=8) |
