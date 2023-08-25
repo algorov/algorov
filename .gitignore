@@ -1,3 +1,5 @@
-# Unnecessary files
+# Unnecessary directories
+.idea
 
-*.DS_Store
+# Unnecessary files
+.DS_Store
