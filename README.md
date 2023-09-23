@@ -18,14 +18,14 @@
     <!-- <a href="https://vk.com/">
         <img src="https://img.shields.io/badge/-VK-/?style=for-the-badge&logo=vk&color=090909" alt="VK"/>
     </a> -->
-    <a href="https://t.me/quesoon/">
+    <a href="https://t.me/algorov/">
         <img src="https://img.shields.io/badge/-Telegram-/?style=for-the-badge&logo=telegram&color=090909" alt="Telegram"/>
     </a>
 </div>
 
 <!-- Profile views -->
 <div id="Profile_views" align=center>
-    <img src="https://komarev.com/ghpvc/?username=quesoon&color=blueviolet&style=for-the-badge" alt="Profile_views"/>
+    <img src="https://komarev.com/ghpvc/?username=algorov&color=blueviolet&style=for-the-badge" alt="Profile_views"/>
 </div>
 
 <!-- Technology stack -->
@@ -48,20 +48,20 @@
 <!-- Profile statistics -->
 <div id="statistics" align="center">
     <h3>Statistics:</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=quesoon&custom_title=Activity&hide_border=true&theme=merko" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=algorov&custom_title=Activity&hide_border=true&theme=merko" alt="Activity Graph">
     <div id='profile-cards' align=center>
         <table>
             <tbody>
                 <tr>
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quesoon&theme=radical" alt="Profile Details">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorov&theme=radical" alt="Profile Details">
                 </tr>
                 <tr>
-                    <img src="https://github-readme-streak-stats.herokuapp.com?user=quesoon&theme=radical" alt="Profile Streak">
+                    <img src="https://github-readme-streak-stats.herokuapp.com?user=algorov&theme=radical" alt="Profile Streak">
                 </tr>
                 <tr>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quesoon&show_icons=true&theme=radical&layout=compact" alt="Top Langs">
-                    <img src="https://github-readme-stats.vercel.app/api?username=quesoon&show_icons=true&theme=radical" alt="Profile Stats">
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quesoon&theme=radical&utcOffset=8" alt="Commit Stats">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorov&show_icons=true&theme=radical&layout=compact" alt="Top Langs">
+                    <img src="https://github-readme-stats.vercel.app/api?username=algorov&show_icons=true&theme=radical" alt="Profile Stats">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=algorov&theme=radical&utcOffset=8" alt="Commit Stats">
                 </tr>
             </tbody>
         </table>
